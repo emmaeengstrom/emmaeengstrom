@@ -10,6 +10,10 @@ they can be mitigated.
 
 ## 🔐 Cybersecurity
 
+## 🔗 Connect with me
+
+- [LinkedIn](linkedin.com/in/emmaengström)
+
 <!--
 **emmaeengstrom/emmaeengstrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
