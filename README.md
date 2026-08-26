@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi, I'm Emma 👋
+
+I'm an Information Systems graduate currently pursuing a Master's degree
+in Privacy, Information Security and Cybersecurity.
+
+My main interests are cybersecurity, secure development and web application
+security. I enjoy building practical projects and security labs to better
+understand how systems work, how vulnerabilities can be exploited, and how
+they can be mitigated.
+
+## 🔐 Cybersecurity
 
 <!--
 **emmaeengstrom/emmaeengstrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
